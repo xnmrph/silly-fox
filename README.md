@@ -20,5 +20,5 @@ https://user-images.githubusercontent.com/118845155/234078311-fcd739c2-c056-425f
 ### Tree Style Tab
 - Under `Advanced` click `Load from file` and select the `treestyletab.css`
 ### Theme:
-Install [This](https://addons.mozilla.org/en-US/firefox/addon/dark-space-custom/) Theme from the Firefox Addons site.
+Install [This](https://addons.mozilla.org/en-US/firefox/addon/dark-space-custom/) theme from the Firefox Addons site.
 
