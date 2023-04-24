@@ -1,6 +1,12 @@
 # silly-fox
 Personal Firefox css. a Frankenstein compilation of different repos and tweaks. Named because I'm a silly little kitten or something... idk...
 
+
+https://user-images.githubusercontent.com/118845155/234078311-fcd739c2-c056-425f-90ea-b0048a3f202e.mp4
+
+
+
+
 ### Installation
 -   Go to `about:profile` and click the "Open Folder" button for the root directory of your browser profile/s.
     
