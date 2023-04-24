@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/118845155/234078311-fcd739c2-c056-425f
 
 
 ### Installation
--   Go to `about:profile` and click the "Open Folder" button for the root directory of your browser profile/s.
+-   Go to `about:profiles` and click the "Open Folder" button for the root directory of your browser profile/s.
     
 -   Download and copy the `chrome` folder into the profile folder.
     
