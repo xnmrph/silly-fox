@@ -23,7 +23,7 @@ tab-item .background {
 tab-item tab-favicon {
 	order: 10 !important;
 	margin-left: 18px;
-	margin-right: 10px;
+	margin-right: 13px;
 	transition: var(--transition-duration) var(--transition-ease);
 }
 
