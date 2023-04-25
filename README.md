@@ -1,5 +1,5 @@
 # silly-fox
-Personal Firefox css. a Frankenstein compilation of different repos and tweaks. Named because I'm a silly little kitten or something... idk...
+Personal Firefox css. a Frankenstein compilation of different repos and tweaks, notably [Rounded-Fox](https://github.com/Etesam913/rounded-fox). Named because I'm a silly little kitten or something... idk...
 
 
 https://user-images.githubusercontent.com/118845155/234078311-fcd739c2-c056-425f-90ea-b0048a3f202e.mp4
